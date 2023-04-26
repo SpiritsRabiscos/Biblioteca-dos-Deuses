@@ -41,4 +41,10 @@ Biblioteca dos Deuses
 
 ▫ <a href="https://github.com/fffaraz/awesome-cpp" target="_blank">Análise 2 </a> : Bibliotecas ordenados por tipo (GUI, Edição de imagens, motores de jogos, etc)
 
+▫ <a href="????" target="_blank">????</a> : .
 
+▫ <a href="????" target="_blank">????</a> : .
+
+▫ <a href="????" target="_blank">????</a> : .
+
+▫ <a href="????" target="_blank">????</a> : .

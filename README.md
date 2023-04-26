@@ -1,2 +1,0 @@
-# Biblioteca-dos-Deuses
-BDD

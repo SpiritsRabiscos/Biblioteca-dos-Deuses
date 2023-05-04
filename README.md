@@ -41,17 +41,18 @@ Biblioteca dos Deuses
 
 ▫ <a href="https://github.com/fffaraz/awesome-cpp" target="_blank">Análise 2 </a> : Bibliotecas ordenados por tipo (GUI, Edição de imagens, motores de jogos, etc)
 
+▫ <a href="https://www.udemy.com/pt/" target="_blank">Udemy</a> : Diversos cursos
+
 ▫ <a href="https://www.alura.com.br/" target="_blank">Alura</a> : Plataforma de ensino sobre tecnologia
 
-▫ <a href="????" target="_blank">????</a> : ????
+▫ <a href="https://www.casadocodigo.com.br/" target="_blank">Casa Do Código</a> : Livros de programação
 
-▫ <a href="????" target="_blank">????</a> : ????
+▫ <a href="https://www.codecademy.com/" target="_blank">Code Academy</a> : Linguagens da Web, como HTML, CSS, JavaScript, Python, Ruby e PHP, e é possível aprender até mesmo tópicos avançados, como Rails, AngularJS e Sass.
 
-▫ <a href="????" target="_blank">????</a> : ????
+▫ <a href="https://www.algaworks.com/" target="_blank">Algaworks</a> : Especializar em Java e Spring
 
-▫ <a href="????" target="_blank">????</a> : ????
+▫ <a href="https://teamtreehouse.com/" target="_blank">Team Treehouse </a> : (Ingles e 'não' e de graça) Oferecem treinamento em: HTML, CSS, JavaScript, Python, PHP, C#, Java, desenvolvimento de aplicativos para Android e iOS, além de workshops sobre o que há de mais novo em diversos frameworks como Django, Laravel, Flask, AngularJS, Gulp, WordPress e muitos outros. 
 
-▫ <a href="????" target="_blank">????</a> : ????
 
 ▫ <a href="????" target="_blank">????</a> : ????
 
